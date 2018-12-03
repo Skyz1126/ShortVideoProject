@@ -14,6 +14,7 @@
 		296165D321B5198F003E6CFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 296165D121B5198F003E6CFB /* LaunchScreen.storyboard */; };
 		296165D621B5198F003E6CFB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 296165D521B5198F003E6CFB /* main.m */; };
 		29E8243921B51C95008D0306 /* TestTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 29E8243821B51C95008D0306 /* TestTableViewCell.m */; };
+		29E8243C21B51F66008D0306 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 29E8243B21B51F66008D0306 /* LoginViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		296165D521B5198F003E6CFB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		29E8243721B51C95008D0306 /* TestTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestTableViewCell.h; sourceTree = "<group>"; };
 		29E8243821B51C95008D0306 /* TestTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestTableViewCell.m; sourceTree = "<group>"; };
+		29E8243A21B51F66008D0306 /* LoginViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
+		29E8243B21B51F66008D0306 /* LoginViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				296165CA21B5198E003E6CFB /* ViewController.m */,
 				29E8243721B51C95008D0306 /* TestTableViewCell.h */,
 				29E8243821B51C95008D0306 /* TestTableViewCell.m */,
+				29E8243A21B51F66008D0306 /* LoginViewController.h */,
+				29E8243B21B51F66008D0306 /* LoginViewController.m */,
 				296165CC21B5198E003E6CFB /* Main.storyboard */,
 				296165CF21B5198F003E6CFB /* Assets.xcassets */,
 				296165D121B5198F003E6CFB /* LaunchScreen.storyboard */,
@@ -150,6 +155,7 @@
 				29E8243921B51C95008D0306 /* TestTableViewCell.m in Sources */,
 				296165D621B5198F003E6CFB /* main.m in Sources */,
 				296165C821B5198E003E6CFB /* AppDelegate.m in Sources */,
+				29E8243C21B51F66008D0306 /* LoginViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
